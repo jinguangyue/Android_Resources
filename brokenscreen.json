@@ -2,29 +2,10 @@
   "click_screen": [
     {
       "vip": "0",
-      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken1.png",
-      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken1.png"
-    },
-    {
-      "vip": "0",
       "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken2.png",
       "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken2.png"
     },
-    {
-      "vip": "0",
-      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken3.png",
-      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken3.png"
-    },
-    {
-      "vip": "0",
-      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken4.png",
-      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken4.png"
-    },
-    {
-      "vip": "0",
-      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken5.png",
-      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken5.png"
-    },
+ 
     {
       "vip": "0",
       "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken6.png",
