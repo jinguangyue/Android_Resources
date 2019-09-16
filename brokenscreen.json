@@ -30,6 +30,37 @@
       "vip": "1",
       "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken_vip2.png",
       "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken_vip2.png"
+    },
+    -----
+    {
+      "vip": "1",
+      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken_vip2.png",
+      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken_vip1-blue.png"
+    },
+    {
+      "vip": "1",
+      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken_vip2.png",
+      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken_vip1_red.pngg"
+    },
+    {
+      "vip": "1",
+      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken_vip2.png",
+      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken_vip1_yellow.png"
+    },
+    {
+      "vip": "1",
+      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken_vip2.png",
+      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken_vip2_blue.png"
+    },
+    {
+      "vip": "1",
+      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken_vip2.png",
+      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken_vip2_red.png"
+    },
+    {
+      "vip": "1",
+      "link_real": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_real/broken_vip2.png",
+      "link_compress": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/broken_screen_compress/broken_vip2_yellow.png"
     }
   ],
   "drag_screen": {
