@@ -1,7 +1,7 @@
 {
   "memes": [
     {
-      "name": "cat",
+      "name": "Cat",
       "datas": [
         {
           "vip": "0",
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "name": "dog",
+      "name": "Dog",
       "datas": [
         {
           "vip": "0",
@@ -203,6 +203,95 @@
         {
           "vip": "0",
           "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes/dog19.png"
+        }
+      ]
+    },
+    {
+      "name": "Fruit",
+      "datas": [
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit0.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit1.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit2.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit3.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit4.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit5.png.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit6.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit7.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit8.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit8.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit10.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit11.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit12.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit13.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit14.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit15.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit16.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit17.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit18.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit19.png"
+        },
+        {
+          "vip": "0",
+          "link": "https://raw.githubusercontent.com/jinguangyue/Android_Resources/master/resource_memes_fruit/fruit20.png"
         }
       ]
     }
